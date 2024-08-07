@@ -137,7 +137,7 @@ button:hover {
   text-align: center;
   text-decoration: none;
   font-size: 36px;
-  border-radius: 100%;
+  border-radius: 50%;
   transition: all 0.3s ease;
 }
 
